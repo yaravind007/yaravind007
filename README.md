@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aravind Kumar Yedida!
 
-Welcome to my GitHub profile! I am a pursuing career in **Data Analytics** and I am passionate about learning **Cybersecurity**,**IoT**,**Networking**. I strive to leverage data analytics to make informed decisions and improve systems.
+Welcome to my GitHub profile! I am a pursuing career in **Data Analytics** and I am passionate about learning technologies on **Cybersecurity** and **Networking**. I strive to leverage data analytics to make informed decisions and improve systems.
 
 ## 🌐 Visit My Website
 You can learn more about me and my projects on my website: [aravind-kumar.tech](https://aravind-kumar.tech/)
@@ -9,10 +9,11 @@ You can learn more about me and my projects on my website: [aravind-kumar.tech](
 - **Master of Science** in Computers from Andhra University College of Engineering
 
 ## 🔧 Skills
+- **Analytical Skills**: Excel,PowerBI
 - **Programming Languages**: Python,SQL,Java
 - **Web Development**: HTML, CSS, JavaScript
 - **Cybersecurity**: Ethical Hacking, Network Security
-- **Technologies**: AI & ML
+  
 - 
 ## 💼 Experience
 - **Cyber Security Trainee Intern** at Skill Uprise | May 2024-July 2024
@@ -22,20 +23,22 @@ You can learn more about me and my projects on my website: [aravind-kumar.tech](
 
 ## 🌟 Projects
 
+1. **Android App Market Analysis Dashboard**
+    -This project provides insights into the Android app market using an interactive dashboard built in Power BI. The analysis uncovers trends in app categories, pricing, reviews, and installs to help developers, businesses, and researchers understand market dynamics.
 
-1. **Automated Image Captioning Using Gemini AI**
+2. **Sales Finance Analytics**
+    -This Report for AtilQ Hardware leverages advanced Excel features to provide insightful analyses across customer, market, and financial metrics. The report enables data-driven decision-making by presenting key performance indicators, sales trends, and financial summaries.
+
+3. **Automated Image Captioning Using Gemini AI**
    -A project that generates accurate image captions with added functionality to convert captions to audio.
-   
+   -Designed and implemented interactive website that generates captions from images.
+   -Model; Pre-Trained Model Google Gemini 1.5 flash.
 
-2. **A Brute-Force Analysis of Instagram's Login Mechanism**
+4. **A Brute-Force Analysis of Instagram's Login Mechanism**
    - Description: This project highlights the security risks involved in logging in through third-party websites. It explains how third-party logins can increase vulnerabilities, making it easier for infiltrators to compromise sensitive information. The takeaway emphasizes the importance of securely storing sensitive information by developers and exercising caution by users.
 
-## 📚 Publications
+## 📚 Publication
 - **“Automated Image Captioning Using Gemini 1.5 Pro” - Published in IJCRT (Volume 12, Issue 8, August 2024)**:(https://ijcrt.org/papers/IJCRT2408190.pdf)
-
-
-## 🌱 Future Works
-I am currently exploring:
 
 ## 🤝 Get in Touch
 I am always open to connecting and collaborating! Feel free to reach out to me via:
