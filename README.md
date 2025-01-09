@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a pursuing career in **Data Analytics** and I am passionate about learning technologies on **Cybersecurity** and **Networking**. I strive to leverage data analytics to make informed decisions and improve systems.
 
 ## 🌐 Visit My Website
-You can learn more about me and my projects on my website: [aravind-kumar.tech](https://aravind-kumar.tech/)
+You can learn more about me and my projects on my website: [DataAnalyst](https://www.datascienceportfol.io/yaravindco)/)
 
 ## 🧑‍🎓 Education
 - **Master of Science** in Computers from Andhra University College of Engineering
