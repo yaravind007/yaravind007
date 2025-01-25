@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I am pursuing a career in **Data Analytics** and am passionate about learning technologies related to **Cybersecurity** and **Networking**. I strive to leverage data analytics to make informed decisions and improve systems.
 
 ## 🌐 Visit My Website
-You can learn more about me and my projects on my [Portfolio Website](https://www.datascienceportfol.io/yaravindco/).
+You can learn more about me and my projects on my [Portfolio Website](https://www.datascienceportfol.io/yaravindco).
 
 ## 🧑‍🎓 Education
-- **Master of Science in Computer Science** from Andhra University College of Engineering
+- **M.Sc in Computer Science** | Andhra University College of Engineering,Visakhapatnam (Graduated Aug 2024)
 
 ## 🔧 Skills
 - **Analytical Tools**: Excel, Power BI
