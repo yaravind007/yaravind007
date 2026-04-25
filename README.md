@@ -1,52 +1,107 @@
-# 👋 Hi, I'm Aravind Kumar Yedida!
+# Aravind Kumar Yedida
 
-Welcome to my GitHub profile! I am pursuing a career in **Data Analytics** and am passionate about learning technologies related to **Cybersecurity** and **Networking**. I strive to leverage data analytics to make informed decisions and improve systems.
+## Data Analyst | Business Intelligence | Marketing Analytics
 
-## 🌐 Visit My Website
-You can learn more about me and my projects on my [Portfolio Website](https://www.aravindyedida.com).
+Data Analyst with a strong focus on transforming raw data into meaningful business insights. Experienced in building dashboards, analyzing performance metrics, and creating data-driven solutions that improve decision-making.
 
-## 🧑‍🎓 Education
-- **M.Sc in Computer Science** | Andhra University College of Engineering,Visakhapatnam (Graduated Aug 2024)
+Combines analytical thinking with business understanding across domains including finance, marketing, HR, and operations.
 
-## 🔧 Skills
-- **Analytical Tools**: Excel, Power BI, Tableau
-- **Programming Languages**: Python, SQL, Java
-- **Web Development**: HTML, CSS, JavaScript
+---
 
-## 💼 Experience
-- **Cybersecurity Trainee Intern** at Skill Uprise | May 2024 – July 2024
-  - Gained hands-on experience in cybersecurity and network security.
-  - Developed skills in tools such as **Kali Linux**, **Nmap**, and **Burp Suite**.
-  - Conducted vulnerability assessments and penetration testing to enhance security protocols.
+## Professional Profile
 
-## 🌟 Projects
+- Specialized in Data Analytics, Reporting, and Visualization  
+- Skilled in translating business problems into measurable insights  
+- Experience working with campaign data, dashboards, and KPI tracking  
+- Strong foundation in technical systems, cybersecurity, and networking  
+- Focused on continuous learning and real-world business impact  
 
-1. **Android App Market Analysis Dashboard**
-   - Created an interactive Power BI dashboard to analyze trends in app categories, pricing, reviews, and installs.
-   - Provided actionable insights for developers, businesses, and researchers to understand market dynamics.
+---
 
-2. **Sales Finance Analytics**
-   - Designed an Excel-based report for AtilQ Hardware using advanced Excel features.
-   - Delivered analyses across customer, market, and financial metrics.
-   - Enabled data-driven decision-making through key performance indicators, sales trends, and financial summaries.
+## Core Competencies
 
-3. **Automated Image Captioning Using Gemini AI**
-   - Built a project to generate accurate image captions and convert captions to audio.
-   - Designed and implemented an interactive website for generating captions from images.
-   - Leveraged a pre-trained Google Gemini 1.5 Flash model.
+### Analytics & BI
+- Power BI  
+- Excel  
+- Tableau  
+- SQL  
+- Python  
 
-4. **A Brute-Force Analysis of Instagram's Login Mechanism**
-   - Explored the security risks of logging in through third-party websites.
-   - Demonstrated how such logins can increase vulnerabilities and compromise sensitive information.
-   - Highlighted the importance of securely storing sensitive information and exercising caution by users.
+### Business Skills
+- KPI Reporting  
+- Dashboard Development  
+- Performance Analysis  
+- Data Cleaning  
+- Decision Support  
 
-## 📚 Publication
-- **“Automated Image Captioning Using Gemini 1.5 Pro”** - Published in IJCRT (Volume 12, Issue 8, August 2024): [Read Here](https://ijcrt.org/papers/IJCRT2408190.pdf)
+### Technical Skills
+- HTML  
+- CSS  
+- JavaScript  
+- Networking Fundamentals  
+- Cybersecurity Basics  
 
-## 🤝 Get in Touch
-I am always open to connecting and collaborating! Feel free to reach out to me via:
+---
 
-- **Email**: [yaravind2001@gmail.com](mailto:yaravind2001@gmail.com)
-- **LinkedIn**: [yaravindkumar](https://www.linkedin.com/in/yaravindkumar/)
+## Experience
 
-Thank you for visiting my GitHub profile! I look forward to connecting with you.
+### Social Media Marketing Intern
+
+- Executed targeted digital strategies that achieved **425K+ reach**
+- Generated **1,000+ inbound inquiries**
+- Tracked campaign performance using analytics-based reporting
+- Improved engagement through data-backed optimization
+
+### Cybersecurity Trainee Intern | Skill Uprise
+
+- Conducted vulnerability assessments and security testing
+- Worked with Kali Linux, Nmap, and Burp Suite
+- Built hands-on knowledge in networking and security systems
+
+---
+
+## Selected Projects
+
+### Business Insights Dashboard
+Centralized key business metrics into an interactive dashboard for faster decision-making.
+
+### Customer Churn Analysis
+Identified patterns influencing customer drop-off to support retention strategy.
+
+### Financial Data Pipeline
+Converted raw financial data into structured reporting dashboards.
+
+### Pharma Sales Dashboard
+Tracked regional sales performance and product metrics.
+
+### Android App Market Analysis
+Analyzed ratings, installs, and category trends using data visualization.
+
+### Resume Scoring System
+Developed an ATS-inspired evaluation model using AI concepts.
+
+---
+
+## Publication
+
+### Automated Image Captioning Using Gemini 1.5 Pro
+
+Published in IJCRT (Volume 12, Issue 8, August 2024)
+
+https://ijcrt.org/papers/IJCRT2408190.pdf
+
+---
+
+## Digital Presence
+
+- Portfolio: https://www.aravindyedida.com  
+- LinkedIn: https://www.linkedin.com/in/yaravindkumar/  
+- Email: yaravind2001@gmail.com  
+
+---
+
+## Current Focus
+
+Building high-impact analytics projects, strengthening business intelligence expertise, and pursuing opportunities in Data Analytics.
+
+---
